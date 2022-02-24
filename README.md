@@ -2,6 +2,12 @@
 
 <!--
 **valeriap16/Valeriap16** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+https://es.cooltext.com/Get-Html-Code?LogoID=4050986376&Agreed=I+Agree
+
+
+| Hora                 | Martes                    | Viernes                  | salón |
+|----------------------|---------------------------|--------------------------|-------|
+| 11:o5 a.m  a 12:50pm |  Manto y redes de computo | Manto y redes de computo | 91    |
 
 Here are some ideas to get you started:
 
