@@ -2,7 +2,8 @@
 
 <!--
 **valeriap16/Valeriap16** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-https://es.cooltext.com/Get-Html-Code?LogoID=4050986376&Agreed=I+Agree
+
+
 
 
 | Hora                 | Martes                    | Viernes                  | salón |
